@@ -1,0 +1,16 @@
+h1, p{
+    margin: 0;
+}
+ul, li{
+    list-style: none;
+}
+#content{
+    padding: 0 20px;
+    text-align: center;
+}
+#carouselExampleSlidesOnly{
+    display: inline-block;
+}
+.sizeM{
+    width: 100%;
+}
